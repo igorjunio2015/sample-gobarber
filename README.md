@@ -1,6 +1,8 @@
-# Sample application
-
-## Dependências utilizadas
+# Aplicação para Barbeiros
+#
+## Ainda em construção
+ 
+### Dependências utilizadas
 + Sequelize
 + Eslint
 + Prettier
